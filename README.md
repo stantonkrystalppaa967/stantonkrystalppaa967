@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm stantonkrystalppaa967
 
-<!--
-**stantonkrystalppaa967/stantonkrystalppaa967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏊 🎬 Dedicated to mastering cloud computing 🏊 🎬
 
-Here are some ideas to get you started:
+## About Me
+🏓 🎤 🥊 🏹 A fan of design thinking 🏓 🎤 🥊 🏹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚣 🎳 Excited about system programming 🚣 🎳
+
+### Fun Facts
+🎱 🥊 A developer in developer relations 🎱 🥊
+
+---
+🎮 🎭 🎯 🎰 🛹 Thanks for visiting my profile! 🎽 🎯 🛼 🏸 🎯
